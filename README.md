@@ -8,7 +8,7 @@
 
 **[前往 Releases 下载最新安装包](https://github.com/jooshiyoon2333/limbus-hermes-terminal/releases/latest)**
 
-在版本页面的 **Assets（附件）** 中下载 `Hermes-Terminal-2.8.0.apk`。支持 Android 8.0 及以上系统；如有提示，请允许浏览器或文件管理器安装应用。
+在版本页面的 **Assets（附件）** 中下载 `Hermes-Terminal-3.0.3.apk`。支持 Android 8.0 及以上系统；如有提示，请允许浏览器或文件管理器安装应用。
 
 已有旧版时，使用同签名新版 APK 覆盖安装即可。建议先在应用中导出备份；不要先卸载，卸载会清除本地数据。
 
